@@ -1,2 +1,2 @@
 # Flappy-Bird
-Flappy-Bird game in typescript.
+Flappy-bird game in typescript.
